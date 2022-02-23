@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '别扒拉我',
-  domain: 'linkedsh.io',
+  domain: 'https://peaceful-headline-402.notion.site/e8ca6fbf2cc04fb7b951f1d3cabaec91',
   author: 'Meryon',
 
   // open graph metadata (optional)
