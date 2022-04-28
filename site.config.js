@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'e8ca6fbf2cc04fb7b951f1d3cabaec91',
+  rootNotionPageId: 'Linkedsh-io-e8ca6fbf2cc04fb7b951f1d3cabaec91',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '别扒拉我',
-  domain: 'https://peaceful-headline-402.notion.site/e8ca6fbf2cc04fb7b951f1d3cabaec91',
+  domain: 'https://linkedsh.notion.site/Linkedsh-io-e8ca6fbf2cc04fb7b951f1d3cabaec91',
   author: 'Meryon',
 
   // open graph metadata (optional)
